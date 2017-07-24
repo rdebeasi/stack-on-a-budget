@@ -95,10 +95,9 @@ Scalable, high-performance virtual machines
 
 [Pricing page](https://www.openshift.com/pricing/index.html)
 
-* *OpenShift is launching a new v3 with 30 days limited developer preview. Sign up are closed since August 1st 2016 for the previous version with 3 free small gears. It is not clear yet if the v3 will come with a free tier or not. Information below are related to the v2.*
-* *Free tier*: 3 small gears (1 CPU, 512MB memory and 1GB storage)
-* *Pros*: no time limitation, gears can be used to deploy apps in a lot of languages and/or databases, many deployment templates are provided
-* *Limitations*: deployment requires installation of OpenShift app, 'idle' apps take longer to load (>30s)
+* *Free tier*: 1GB memory, 1GB storage
+* *Pros*: supports multiple languages and databases, as well as Docker containers and Jenkins builds
+* *Limitations*: project will sleep after 30 mins of inactivity, and must sleep 18 hours within a 72-hour period
 
 ## Zeit Now
 
